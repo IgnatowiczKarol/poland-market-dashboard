@@ -33,9 +33,6 @@ The dashboard monitors:
 
 Raw data → Data cleaning → Return calculations → Dashboard → Market commentary
 
-## Dashboard preview
-
-![Poland Market Dashboard](output/dashboard_preview.png)
 
 ## Project files
 
